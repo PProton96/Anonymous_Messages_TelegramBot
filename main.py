@@ -16,7 +16,7 @@ def main(message):
 
 #Копирование сообщения(пока не работает, не реализовано)
 @bot.message_handler
-def send (message):
+def send(message):
     bot.copy_message(chat_id: int, from_chat_id: int, message_id: int)
 #-====================================================================-
 
