@@ -22,4 +22,3 @@ def send(message):
 
 #Строка для постоянной работы бота 
 bot.infinity_polling()
-#Вадим вагина
